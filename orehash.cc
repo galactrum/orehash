@@ -86,4 +86,4 @@ void Init(v8::Local<v8::Object> exports) {
                Nan::New<v8::FunctionTemplate>(SumScryptN)->GetFunction());
 }
 
-NODE_MODULE(vertcoinhash, Init) 
+NODE_MODULE(orehash, Init) 

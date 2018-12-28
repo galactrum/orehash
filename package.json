@@ -1,12 +1,12 @@
 {
-  "name": "vertcoinhash",
+  "name": "orehash",
   "version": "1.0.0",
-  "description": "Node.js hash functions for Vertcoin",
-  "main": "vertcoinhash",
+  "description": "Node.js hash functions for Galactrum",
+  "main": "orehash",
   "license": "MIT",
   "repository" : { 
     "type" : "git", 
-    "url" : "https://github.com/vertcoin/vertcoinhash.git"
+    "url" : "https://github.com/GAB5TER/orehash.git"
   },
   "dependencies": {
     "nan": "latest",
