@@ -1,6 +1,6 @@
 {
   "name": "orehash",
-  "version": "1.0.0",
+  "version": "1.4.0",
   "description": "Node.js hash functions for Galactrum",
   "main": "orehash",
   "license": "MIT",
