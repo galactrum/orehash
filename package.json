@@ -13,8 +13,11 @@
     "bindings": "latest",
     "node-gyp": "latest"
   },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
   "scripts": {
-    "test": "node test.js"
+    "test": "mocha --no-timeouts test.js"
   },
   "gypfile": true
 }
